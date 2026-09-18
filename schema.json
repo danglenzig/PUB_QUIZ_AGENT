@@ -1,0 +1,79 @@
+{
+  "$defs": {
+    "Question": {
+      "description": "A model representing one pub trivia question",
+      "properties": {
+        "question": {
+          "description": "A multiple choice pub trivia question. Max 1-2 sentences.",
+          "title": "Question",
+          "type": "string"
+        },
+        "choices": {
+          "description": "A list of possible answers to the question. *EXACTLY ONE* choice must be the correct answer. The others should should be incorrect but also seem feasible.",
+          "items": {
+            "type": "string"
+          },
+          "title": "Choices",
+          "type": "array"
+        },
+        "answer_idx": {
+          "description": "The zero-based index of the correct item from the choices list.",
+          "title": "Answer Idx",
+          "type": "integer"
+        },
+        "topic": {
+          "description": "The category that best fits the question's main topic.",
+          "enum": [
+            "HISTORY",
+            "GEOGRAPHY",
+            "CINEMA",
+            "SCIENCE_AND_TECNOLOGY",
+            "SPORTS",
+            "MUSIC",
+            "LITURATURE",
+            "CUISINE",
+            "POPULAR_CULTURE",
+            "GAMING",
+            "MYTHOLOGY",
+            "OTHER"
+          ],
+          "title": "Topic",
+          "type": "string"
+        },
+        "tags": {
+          "description": "A list of  1-2 word tags that help further characterize the topic of the question. Examples: 'sci fi', 'famous buildings', 'deceased people', 'cinematic villians', 'robots', 'medicine', 'business' etc. These tags will help the quiz-master agent look up thematically appropriate questions for a given theme.",
+          "items": {
+            "type": "string"
+          },
+          "title": "Tags",
+          "type": "array"
+        }
+      },
+      "required": [
+        "question",
+        "choices",
+        "answer_idx",
+        "topic",
+        "tags"
+      ],
+      "title": "Question",
+      "type": "object"
+    }
+  },
+  "description": "A model representing a collection of questions to be added to a trivia database",
+  "properties": {
+    "questions": {
+      "description": "A list of Questions",
+      "items": {
+        "$ref": "#/$defs/Question"
+      },
+      "title": "Questions",
+      "type": "array"
+    }
+  },
+  "required": [
+    "questions"
+  ],
+  "title": "Questions",
+  "type": "object"
+}

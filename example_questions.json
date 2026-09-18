@@ -1,0 +1,324 @@
+{
+  "questions": [
+    {
+      "question": "Which company's slogan was 'Don't be evil'?",
+      "choices": [
+        "Google",
+        "Yahoo",
+        "Ask Jeeves",
+        "AOL"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "tech companies",
+        "slogans"
+      ],
+      "question_uuid_string": "d6ef5f3b-fd91-497a-8b8b-70aa57804192"
+    },
+    {
+      "question": "What was the purpose of Napster, a popular service in the late 90s?",
+      "choices": [
+        "File sharing",
+        "Social networking",
+        "Search engine",
+        "Email service"
+      ],
+      "answer_idx": 0,
+      "topic": "POPULAR_CULTURE",
+      "tags": [
+        "file sharing",
+        "music"
+      ],
+      "question_uuid_string": "b0efa3c1-d7b4-48b2-a9b3-198fa229704f"
+    },
+    {
+      "question": "Which handheld digital pet was a worldwide craze in the late 1990s?",
+      "choices": [
+        "Tamagotchi",
+        "Neopet",
+        "Digimon",
+        "Pet Rock"
+      ],
+      "answer_idx": 0,
+      "topic": "POPULAR_CULTURE",
+      "tags": [
+        "digital pets",
+        "toys"
+      ],
+      "question_uuid_string": "d66aca77-3d5a-4eee-8c3f-941f384583b8"
+    },
+    {
+      "question": "In what year did the gaming console PlayStation 2 launch?",
+      "choices": [
+        "1999",
+        "2001",
+        "2000",
+        "2002"
+      ],
+      "answer_idx": 2,
+      "topic": "GAMING",
+      "tags": [
+        "video games",
+        "consoles"
+      ],
+      "question_uuid_string": "7dd9903f-8436-47c2-8f3a-90968fb33326"
+    },
+    {
+      "question": "Which online chat service popularized the term 'away message'?",
+      "choices": [
+        "AIM",
+        "MSN Messenger",
+        "ICQ",
+        "Yahoo Messenger"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "instant messaging",
+        "chat"
+      ],
+      "question_uuid_string": "9f62e16a-976f-4731-8bdd-ad2e2a0f3919"
+    },
+    {
+      "question": "What was the name of the infamous 'Love Bug' computer virus?",
+      "choices": [
+        "ILOVEYOU",
+        "Melissa",
+        "Nimda",
+        "Sasser"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "viruses",
+        "cybersecurity"
+      ],
+      "question_uuid_string": "648d67ae-9497-467e-b087-d94074b83dca"
+    },
+    {
+      "question": "Which online payment service was launched in December 1998?",
+      "choices": [
+        "PayPal",
+        "Venmo",
+        "Zelle",
+        "Apple Pay"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "payments",
+        "e-commerce"
+      ],
+      "question_uuid_string": "cf7a94bc-0699-4e7e-a146-7cdb2815bc6a"
+    },
+    {
+      "question": "On which website did the 'Dancing Baby' video first become an internet sensation?",
+      "choices": [
+        "YouTube",
+        "GeoCities",
+        "Angelfire",
+        "MySpace"
+      ],
+      "answer_idx": 1,
+      "topic": "POPULAR_CULTURE",
+      "tags": [
+        "viral videos",
+        "websites"
+      ],
+      "question_uuid_string": "d0cb6089-6eae-4590-986e-8b154dd93f8a"
+    },
+    {
+      "question": "Which virtual game world was known for its multiplayer mode and was launched in 2001?",
+      "choices": [
+        "Runescape",
+        "World of Warcraft",
+        "Second Life",
+        "Habbo Hotel"
+      ],
+      "answer_idx": 0,
+      "topic": "GAMING",
+      "tags": [
+        "MMO",
+        "online gaming"
+      ],
+      "question_uuid_string": "0eb82373-743d-43fd-950c-dec46aa76c43"
+    },
+    {
+      "question": "Who founded Napster, the peer-to-peer file sharing application?",
+      "choices": [
+        "Shawn Fanning",
+        "Larry Page",
+        "Elon Musk",
+        "Steve Jobs"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "founders",
+        "file sharing"
+      ],
+      "question_uuid_string": "3b4858cd-9625-4e6b-90c3-0e89ddb30b14"
+    },
+    {
+      "question": "Which popular website started as a 'Hot or Not' type site launched in 2003?",
+      "choices": [
+        "Facebook",
+        "MySpace",
+        "Friendster",
+        "LinkedIn"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "social media",
+        "rankings"
+      ],
+      "question_uuid_string": "810312b8-02c5-4631-85b8-e1ed86a01880"
+    },
+    {
+      "question": "Which web portal was known for its 'You've got mail' greeting?",
+      "choices": [
+        "AOL",
+        "Yahoo",
+        "MSN",
+        "Netscape"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "email",
+        "internet services"
+      ],
+      "question_uuid_string": "b7043ca4-8476-4b4e-9889-e15b013961c0"
+    },
+    {
+      "question": "What was the main function of the site LiveJournal when it launched in 1999?",
+      "choices": [
+        "Content blogging",
+        "Photo sharing",
+        "Video hosting",
+        "E-commerce"
+      ],
+      "answer_idx": 0,
+      "topic": "POPULAR_CULTURE",
+      "tags": [
+        "blogging",
+        "journaling"
+      ],
+      "question_uuid_string": "d50a9f6e-a0e4-4a58-ab86-482d438b6d7e"
+    },
+    {
+      "question": "Which company's internet service was symbolized by a running man icon?",
+      "choices": [
+        "AOL",
+        "Google",
+        "Yahoo",
+        "Netscape"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "messaging",
+        "logos"
+      ],
+      "question_uuid_string": "305f299e-747f-4209-ad2e-72544b782572"
+    },
+    {
+      "question": "What messaging app was acquired by Microsoft in 1996 and became MSN Messenger?",
+      "choices": [
+        "ICQ",
+        "Yahoo Messenger",
+        "Trillian",
+        "Instagram"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "acquisitions",
+        "messaging"
+      ],
+      "question_uuid_string": "29bf712b-dce7-4f1a-93f8-fb8c8565e3c3"
+    },
+    {
+      "question": "In the early 2000s, what was eBay primarily known for?",
+      "choices": [
+        "Online auctions",
+        "Streaming services",
+        "News articles",
+        "Travel booking"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "marketplaces",
+        "auctions"
+      ],
+      "question_uuid_string": "7373d717-5924-4e85-9eee-8e7fb6f04ca0"
+    },
+    {
+      "question": "What was unique about the game 'The Sims' released in the year 2000?",
+      "choices": [
+        "Life simulation",
+        "First-person shooting",
+        "Puzzle-solving",
+        "Racing"
+      ],
+      "answer_idx": 0,
+      "topic": "GAMING",
+      "tags": [
+        "simulation",
+        "video games"
+      ],
+      "question_uuid_string": "f2bd714f-5418-452a-98cc-47e57151428e"
+    },
+    {
+      "question": "Which file format was crucial for music sharing on Napster?",
+      "choices": [
+        "MP3",
+        "WAV",
+        "FLAC",
+        "AAC"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "music files",
+        "file formats"
+      ],
+      "question_uuid_string": "b9a3b775-a901-41fb-a4df-cd14acf016f2"
+    },
+    {
+      "question": "What was the primary function of the website GeoCities?",
+      "choices": [
+        "Hosting personal web pages",
+        "E-commerce",
+        "Search engine",
+        "Email services"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "web hosting",
+        "personal sites"
+      ],
+      "question_uuid_string": "7a504d1a-dd22-4499-a569-6d61ddbbd7a4"
+    },
+    {
+      "question": "What was the main feature of the website called Hotmail, launched in 1996?",
+      "choices": [
+        "Web-based email service",
+        "Search engine",
+        "Social networking",
+        "E-commerce"
+      ],
+      "answer_idx": 0,
+      "topic": "SCIENCE_AND_TECNOLOGY",
+      "tags": [
+        "email",
+        "internet services"
+      ],
+      "question_uuid_string": "46d7d04a-4aeb-4f84-995e-3d63bf2996ac"
+    }
+  ]
+}
