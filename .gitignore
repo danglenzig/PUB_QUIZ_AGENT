@@ -1,0 +1,18 @@
+# 1. Ignore everything
+*
+
+# 2. Allow directories so Git can search inside subfolders
+!*/
+
+# 3. Allow .gitignore and other git configuration dotfiles
+!.gitignore
+!.gitattributes
+!.mailmap
+
+# 4. Allow specific file extensions
+!*.py
+!*.txt
+!*.md
+!*.mmd
+!*.png
+!*.json
